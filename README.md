@@ -15,23 +15,23 @@ Prodi 	: Teknik Informatika
 
 2.Setelah menginstall Git, Silahkan cek untuk melihat versi Git yang anda install dengan mengetik
 
-![Screenshot(1)](Screenshots/Screenshot(1).png)
+  ![Screenshots(1)](Screenshots/Screenshot(1).png)
 	
 	$ git version
 
 3.Anda bisa melakukan login awal pada Git menggunakan Command Prompt (Windows)
 
-![Screenshots(2)](Screenshots/Screenshot(2).png)
+ ![Screenshots(2)](Screenshots/Screenshot(2).png)
 
 4.Selanjutnya, masukkan username GitHub Anda menggunakan perintah di bawah ini. Lalu tekan ENTER jika sudah benar.
 
-![Screenshots(3)](Screenshots/Screenshot(3).png)
+ ![Screenshots(3)](Screenshots/Screenshot(3).png)
 
 	$ git config --global user.name "UsernameAnda"
 
 5.Kemudian masukkan email yang terdaftar di GitHub Anda menggunakan perintah di bawah ini. Lalu tekan ENTER jika sudah benar.
 
-![Screenshots(4)](Screenshots/Screenshot(4).png)
+ ![Screenshots(4)](Screenshots/Screenshot(4).png)
 
 	$ git config --global user.email emailanda
 
