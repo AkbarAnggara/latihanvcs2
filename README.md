@@ -15,7 +15,7 @@ Prodi 	: Teknik Informatika
 
 2.Setelah menginstall Git, Silahkan cek untuk melihat versi Git yang anda install dengan mengetik
 
-![Screenshots(1)](Screenshots/Screenshot(1).png)
+![Screenshot(1)](Screenshots/Screenshot(1).png)
 	
 	$ git version
 
